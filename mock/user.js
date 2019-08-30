@@ -15,7 +15,7 @@ export default {
     tags: [
       {
         key: '0',
-        label: '很有想法的',
+        label: '创意无限',
       },
       {
         key: '1',
