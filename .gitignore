@@ -21,6 +21,7 @@ yarn.lock
 package-lock.json
 *bak
 .vscode
+sftp.env.config.js
 
 # visual studio code
 .history
